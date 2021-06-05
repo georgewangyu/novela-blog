@@ -5,7 +5,7 @@ module.exports = {
     siteUrl: `https://georgewangyu.me`,
     description: `A George Wang Blog Site`,
     hero: {
-      heading: `Hey everyone. I'm George, a professional fun-haver and programmer. I also make love sports, books, and making videos.`,
+      heading: `Hey everyone. I'm George, a professional fun-haver and programmer. I also love sports, books, and making videos.`,
       maxWidth: 652,
     },
     social: [
