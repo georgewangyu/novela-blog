@@ -2,32 +2,32 @@ module.exports = {
   siteMetadata: {
     title: `George Wang Blogs`,
     name: `George Wang`,
-    siteUrl: `https://novela.narative.co`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    siteUrl: `georgewangblogs.netlify.app`,
+    description: `A George Wang Blog Site`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
+      heading: `Hey everyone. I'm George, a professional fun-haver and programmer. I also make love sports, books, and making videos.`,
       maxWidth: 652,
     },
     social: [
       {
-        name: `twitter`,
-        url: `https://twitter.com/narative`,
+        name: `youtube`,
+        url: `https://www.youtube.com/channel/UCdEcstWVM6R0a48vt7zheSQ`,
       },
       {
         name: `github`,
-        url: `https://github.com/narative`,
+        url: `https://github.com/georgewangyu`,
       },
       {
         name: `instagram`,
-        url: `https://instagram.com/narative.co`,
+        url: `https://instagram.com/georgewangyu`,
       },
       {
         name: `linkedin`,
-        url: `https://www.linkedin.com/company/narative/`,
+        url: `https://www.linkedin.com/in/georgewangyu/`,
       },
       {
-        name: `dribbble`,
-        url: `https://dribbble.com/narativestudio`,
+        name: `facebook`,
+        url: `https://www.facebook.com/georgewangyu/`,
       },
     ],
   },

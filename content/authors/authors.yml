@@ -1,11 +1,11 @@
 name: George Wang
 bio: |
-  I love sports, books and coding.
+  What's the difference between a good joke and a bad joke timing.
 avatar: ./avatars/george.jpg
 social:
+  - url: https://www.youtube.com/channel/UCdEcstWVM6R0a48vt7zheSQ
+  - url: https://github.com/georgewangyu/
   - url: https://www.instagram.com/georgewangyu/
+  - url: https://www.linkedin.com/in/georgewangyu/
   - url: https://www.facebook.com/georgewangyu/
-  - url: https://github.com
-  - url: https://github.com
-  - url: https://github.com
 featured: true
