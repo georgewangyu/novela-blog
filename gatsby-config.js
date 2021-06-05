@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `George Wang Blogs`,
     name: `George Wang`,
-    siteUrl: `https://georgewangyu.me`,
+    siteUrl: `https://georgewangyu`,
     description: `A George Wang Blog Site`,
     hero: {
       heading: `Hey everyone. I'm George, a professional fun-haver and programmer. I also make love sports, books, and making videos.`,
