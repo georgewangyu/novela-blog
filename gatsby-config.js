@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `George Wang Blogs`,
     name: `George Wang`,
-    siteUrl: `georgewangblogs.netlify.app`,
+    siteUrl: `https://novela.narative.co`,
     description: `A George Wang Blog Site`,
     hero: {
       heading: `Hey everyone. I'm George, a professional fun-haver and programmer. I also make love sports, books, and making videos.`,
