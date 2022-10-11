@@ -2,13 +2,15 @@ import React, { useContext } from 'react';
 import { graphql, useStaticQuery } from 'gatsby';
 import styled from '@emotion/styled';
 
-import Section from '@components/Section';
-import Bio from '@components/Bio';
-import Icons from '@icons';
-import mediaqueries from '@styles/media';
-import { IAuthor } from '@types';
+import Section from '@narative/gatsby-theme-novela/src/components/Section';
+import Bio from '@narative/gatsby-theme-novela/src/components/Bio';
+import Icons from '@narative/gatsby-theme-novela/src/icons';
+import mediaqueries from '@narative/gatsby-theme-novela/src/styles/media';
+import { IAuthor } from '@narative/gatsby-theme-novela/src/types';
 
-import { GridLayoutContext } from './Articles.List.Context';
+import { GridLayoutContext } from '@narative/gatsby-theme-novela/src/sections/articles/Articles.List.Context';
+import Subscription from "@narative/gatsby-theme-novela/src/components/Subscription";
+
 
 const authorQuery = graphql`
   {
